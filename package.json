@@ -9,10 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
-  },
+ "dependencies": {
+  "lucide-react": "^0.539.0",
+  "react": "^19.2.4",
+  "react-dom": "^19.2.4"
+},
   "devDependencies": {
     "@eslint/js": "^9.39.4",
     "@types/react": "^19.2.14",
